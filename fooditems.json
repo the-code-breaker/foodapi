@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "64d8dc22cd931657cff6d17c",
+    "item_id": 1,
+    "item_name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+    "vegetarian": true,
+    "category": "Pizza",
+    "image_url": "https://example.com/images/margherita_pizza.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8ddda91cae42e3eb1b1f4",
+    "item_id": 2,
+    "item_name": "Chicken Biryani",
+    "description": "A flavorful rice dish with tender chicken pieces, spices, and aromatic basmati rice.",
+    "vegetarian": false,
+    "category": "Rice",
+    "image_url": "https://example.com/images/chicken_biryani.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8de46e7bc7038f5f3fd2c",
+    "item_id": 3,
+    "item_name": "Caesar Salad",
+    "description": "Crisp romaine lettuce, garlic croutons, parmesan cheese, and Caesar dressing.",
+    "vegetarian": true,
+    "category": "Salad",
+    "image_url": "https://example.com/images/caesar_salad.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8deb5e7bc7038f5f3fd31",
+    "item_id": 4,
+    "item_name": "Spaghetti Carbonara",
+    "description": "Italian pasta dish with eggs, cheese, pancetta, and black pepper.",
+    "vegetarian": false,
+    "category": "Pasta",
+    "image_url": "https://example.com/images/spaghetti_carbonara.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8dec9e7bc7038f5f3fd33",
+    "item_id": 5,
+    "item_name": "Vegetable Spring Rolls",
+    "description": "Crispy spring rolls filled with mixed vegetables and served with dipping sauce.",
+    "vegetarian": true,
+    "category": "Appetizer",
+    "image_url": "https://example.com/images/vegetable_spring_rolls.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0acf0bb107c97f6b08a",
+    "item_id": 6,
+    "item_name": "Hawaiian Pizza",
+    "description": "A tropical delight with ham, pineapple, and mozzarella cheese on a pizza crust.",
+    "vegetarian": false,
+    "category": "Pizza",
+    "image_url": "https://example.com/images/hawaiian_pizza.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0d1f0bb107c97f6b08c",
+    "item_id": 7,
+    "item_name": "Paneer Tikka Masala",
+    "description": "Indian curry dish made with marinated paneer, onions, tomatoes, and spices.",
+    "vegetarian": true,
+    "category": "Curry",
+    "image_url": "https://example.com/images/paneer_tikka_masala.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0d1f0bb107c97f6b08d",
+    "item_id": 8,
+    "item_name": "Sushi Platter",
+    "description": "Assorted sushi rolls including tuna, salmon, and avocado, served with soy sauce and wasabi.",
+    "vegetarian": false,
+    "category": "Sushi",
+    "image_url": "https://example.com/images/sushi_platter.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0d1f0bb107c97f6b08e",
+    "item_id": 9,
+    "item_name": "Greek Salad",
+    "description": "Fresh salad with tomatoes, cucumbers, olives, feta cheese, and Greek dressing.",
+    "vegetarian": true,
+    "category": "Salad",
+    "image_url": "https://example.com/images/greek_salad.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0d1f0bb107c97f6b08f",
+    "item_id": 10,
+    "item_name": "Chicken Alfredo Pasta",
+    "description": "Creamy pasta dish with grilled chicken, fettuccine noodles, and rich Alfredo sauce.",
+    "vegetarian": false,
+    "category": "Pasta",
+    "image_url": "https://example.com/images/chicken_alfredo_pasta.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0ecf0bb107c97f6b091",
+    "item_id": 11,
+    "item_name": "Mushroom Risotto",
+    "description": "Creamy risotto cooked with Arborio rice, mushrooms, onions, and Parmesan cheese.",
+    "vegetarian": true,
+    "category": "Rice",
+    "image_url": "https://example.com/images/mushroom_risotto.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0ecf0bb107c97f6b092",
+    "item_id": 12,
+    "item_name": "BBQ Ribs",
+    "description": "Slow-cooked pork ribs glazed with tangy barbecue sauce, served with coleslaw.",
+    "vegetarian": false,
+    "category": "Meat",
+    "image_url": "https://example.com/images/bbq_ribs.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0ecf0bb107c97f6b093",
+    "item_id": 13,
+    "item_name": "Caprese Salad",
+    "description": "Fresh salad with tomatoes, mozzarella cheese, fresh basil, olive oil, and balsamic glaze.",
+    "vegetarian": true,
+    "category": "Salad",
+    "image_url": "https://example.com/images/caprese_salad.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0ecf0bb107c97f6b094",
+    "item_id": 14,
+    "item_name": "Veggie Burger",
+    "description": "Grilled vegetable patty served on a bun with lettuce, tomato, onion, and special sauce.",
+    "vegetarian": true,
+    "category": "Burger",
+    "image_url": "https://example.com/images/veggie_burger.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0ecf0bb107c97f6b095",
+    "item_id": 15,
+    "item_name": "Seafood Paella",
+    "description": "Spanish rice dish with saffron, shrimp, mussels, clams, and chorizo sausage.",
+    "vegetarian": false,
+    "category": "Seafood",
+    "image_url": "https://example.com/images/seafood_paella.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0fbf0bb107c97f6b097",
+    "item_id": 16,
+    "item_name": "Veggie Wrap",
+    "description": "A wrap filled with assorted vegetables, hummus, and a touch of feta cheese.",
+    "vegetarian": true,
+    "category": "Wrap",
+    "image_url": "https://example.com/images/veggie_wrap.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0fbf0bb107c97f6b098",
+    "item_id": 17,
+    "item_name": "Steak with Roasted Vegetables",
+    "description": "Grilled steak served with a side of roasted vegetables and garlic mashed potatoes.",
+    "vegetarian": false,
+    "category": "Meat",
+    "image_url": "https://example.com/images/steak_roasted_vegetables.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0fbf0bb107c97f6b099",
+    "item_id": 18,
+    "item_name": "Penne Alfredo",
+    "description": "Pasta tubes served with a creamy Alfredo sauce, garnished with parsley and Parmesan.",
+    "vegetarian": true,
+    "category": "Pasta",
+    "image_url": "https://example.com/images/penne_alfredo.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0fbf0bb107c97f6b09a",
+    "item_id": 19,
+    "item_name": "Tandoori Chicken",
+    "description": "Marinated chicken pieces cooked in a tandoor oven, served with naan bread.",
+    "vegetarian": false,
+    "category": "Chicken",
+    "image_url": "https://example.com/images/tandoori_chicken.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e0fbf0bb107c97f6b09b",
+    "item_id": 20,
+    "item_name": "Fruit Parfait",
+    "description": "Layers of yogurt, granola, and fresh fruits, topped with honey and nuts.",
+    "vegetarian": true,
+    "category": "Dessert",
+    "image_url": "https://example.com/images/fruit_parfait.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e106f0bb107c97f6b09d",
+    "item_id": 21,
+    "item_name": "Miso Soup",
+    "description": "Traditional Japanese soup made with miso paste, tofu, seaweed, and green onions.",
+    "vegetarian": true,
+    "category": "Soup",
+    "image_url": "https://example.com/images/miso_soup.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e106f0bb107c97f6b09e",
+    "item_id": 22,
+    "item_name": "Egg Fried Rice",
+    "description": "Stir-fried rice with scrambled eggs, mixed vegetables, and soy sauce.",
+    "vegetarian": true,
+    "category": "Rice",
+    "image_url": "https://example.com/images/egg_fried_rice.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e106f0bb107c97f6b09f",
+    "item_id": 23,
+    "item_name": "Pulled Pork Sandwich",
+    "description": "Slow-cooked pulled pork piled high on a bun, served with coleslaw and BBQ sauce.",
+    "vegetarian": false,
+    "category": "Sandwich",
+    "image_url": "https://example.com/images/pulled_pork_sandwich.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e106f0bb107c97f6b0a0",
+    "item_id": 24,
+    "item_name": "Shrimp Scampi",
+    "description": "Sauteed shrimp in garlic butter sauce, served over linguine pasta.",
+    "vegetarian": false,
+    "category": "Seafood",
+    "image_url": "https://example.com/images/shrimp_scampi.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e106f0bb107c97f6b0a1",
+    "item_id": 25,
+    "item_name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey molten center, topped with vanilla ice cream.",
+    "vegetarian": true,
+    "category": "Dessert",
+    "image_url": "https://example.com/images/chocolate_lava_cake.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e10ef0bb107c97f6b0a3",
+    "item_id": 26,
+    "item_name": "Vegetable Pad Thai",
+    "description": "Stir-fried rice noodles with mixed vegetables, tofu, peanuts, and a tangy sauce.",
+    "vegetarian": true,
+    "category": "Noodles",
+    "image_url": "https://example.com/images/vegetable_pad_thai.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e10ef0bb107c97f6b0a4",
+    "item_id": 27,
+    "item_name": "Beef Tacos",
+    "description": "Soft or crunchy tortillas filled with seasoned ground beef, lettuce, cheese, and salsa.",
+    "vegetarian": false,
+    "category": "Mexican",
+    "image_url": "https://example.com/images/beef_tacos.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e10ef0bb107c97f6b0a5",
+    "item_id": 28,
+    "item_name": "Chicken Shawarma",
+    "description": "Thinly sliced marinated chicken wrapped in pita bread with vegetables and tahini sauce.",
+    "vegetarian": false,
+    "category": "Middle Eastern",
+    "image_url": "https://example.com/images/chicken_shawarma.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e10ef0bb107c97f6b0a6",
+    "item_id": 29,
+    "item_name": "Margherita Pasta",
+    "description": "Penne pasta with fresh tomatoes, basil, mozzarella cheese, and olive oil.",
+    "vegetarian": true,
+    "category": "Pasta",
+    "image_url": "https://example.com/images/margherita_pasta.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "64d8e10ef0bb107c97f6b0a7",
+    "item_id": 30,
+    "item_name": "Berry Smoothie",
+    "description": "Blend of mixed berries, yogurt, and honey, perfect for a refreshing drink.",
+    "vegetarian": true,
+    "category": "Beverage",
+    "image_url": "https://example.com/images/berry_smoothie.jpg",
+    "__v": 0
+  }
+]
